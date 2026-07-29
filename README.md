@@ -107,5 +107,6 @@ The test suite covers all five mandatory scenarios from the assignment:
 ## Demo Recording
 
 I have recorded a short demo showing the system in action:
-https://drive.google.com/file/d/13EJN9XuEqrgJLB4nPw3msX5OzzNFnWek/view?usp=sharing
+https://drive.google.com/file/d/1sv9ImQbwzKLzWRqJva3k9IhhyELrZwO6/view
+
 If you want to follow along, you can use the `DEMO.md` script in the repo.
